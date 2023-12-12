@@ -5,6 +5,7 @@
 <head>
 <title>Hello World!</title>
 <link rel="stylesheet" href="bluestyle.css">
+  <p> Here I want to maintain background colour as blue by using the stylesheet</p>
 </head>
 <body>
 
